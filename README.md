@@ -16,6 +16,18 @@ A simple **blog application** built using **Next.js**, **TypeScript**, and **Mat
 
 ---
 
+## Bonus:
+- Includes basic unit tests with Jest and React Testing Library.
+- Deployed on Vercel for live demo.
+
+## Deployment
+
+The application is deployed live using [Vercel](https://vercel.com), providing fast and reliable hosting for Next.js projects. You can try the live app here:
+
+**[Live Demo](https://silvana-blog-posts-app.vercel.app/)**  
+
+---
+
 ## **Tech Stack**
 
 - **Framework:** [Next.js](https://nextjs.org/)
