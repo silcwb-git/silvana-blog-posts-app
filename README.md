@@ -108,20 +108,15 @@ GET jsonplaceholder.typicode.com
 ### **Get Post by ID**
 
 GET 
-
 jsonplaceholder.typicode.com
-
 
 ### **Get Comments for a Post**
 
 GET 
-
 jsonplaceholder.typicode.com
 
-# **Project Structure**
 
-Here’s an overview of the project structure:
-my-blog-app/ ├── components/ # Reusable components │ ├── PostCard.tsx # Component to display individual posts ├── pages/ # Next.js pages and routes │ ├── index.tsx # Home page with paginated post list │ ├── posts/ # Dynamic routes for each post │ │ ├── [id].tsx # Post details page ├── utils/ # Utility files (e.g., API handlers) │ ├── api.ts # Axios-based API calls and types ├── public/ # Static assets (e.g., images, favicons) │ ├── favicon.ico ├── styles/ # Global or modular styles ├── package.json # Project dependencies and scripts
+# Project ascripts and dependencies 
 
 # **Scripts**
 
