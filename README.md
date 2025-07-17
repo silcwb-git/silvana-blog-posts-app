@@ -161,7 +161,6 @@ Here are some ideas to enhance the app:
 - **CRUD Features**: Enable users to create, update, and delete posts and comments.
 - **Custom Backend**: Replace JSONPlaceholder with your own backend.
 - **Dark Mode**: Add support for dark and light themes.
-- **Unit/Integration Tests**: Add tests using tools like Jest and React Testing Library.
 
 ---
 
