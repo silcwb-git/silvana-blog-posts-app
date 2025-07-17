@@ -1,4 +1,4 @@
-# **MySilvana Blog Posts App**
+# **Silvana's Blog Posts App**
 
 A simple **blog application** built using **Next.js**, **TypeScript**, and **Material-UI**. The app fetches posts and their comments from the placeholder API (**https://jsonplaceholder.typicode.com**) and allows users to browse, filter, and view detailed posts with their respective comments.
 
