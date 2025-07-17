@@ -116,7 +116,7 @@ GET
 jsonplaceholder.typicode.com
 
 
-# Project ascripts and dependencies 
+# Project scripts and dependencies 
 
 # **Scripts**
 
