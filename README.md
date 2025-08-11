@@ -227,6 +227,7 @@ Enjoy coding! 🚀 😊
 If you'd like me to add or remove anything specific, let me know!
 
 📧 E-mail: silvana.siqueira@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/ssas4)
 
 
