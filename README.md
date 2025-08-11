@@ -65,7 +65,7 @@ Ensure you have the following installed on your system:
     # or
     yarn install
     ```
-3. **Start the Development Server Launch the developmshent server locally**
+3. **Start the Development Server & Launch the development server locally**
     ```bash
     npm run dev
     # or
@@ -222,9 +222,12 @@ Thanks to:
 
 ---
 
-Enjoy coding! 🚀😊
+Enjoy coding! 🚀 😊
 
 If you'd like me to add or remove anything specific, let me know!
+📧 E-mail: silvana.siqueira@gmail.com 🔗 LinkedIn: www.linkedin.com
+
+
 
 
 
